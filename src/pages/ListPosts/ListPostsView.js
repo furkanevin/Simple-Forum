@@ -8,6 +8,7 @@ const ListPostsView = ({ blogData, showUsers, showModal, setShowModal,modalData 
     <div>
       <Header addLink />
       <div className="container">
+        
         {blogData.map((post) => (
           <div key={post.id} className="post">
             <div className="title">
@@ -17,6 +18,7 @@ const ListPostsView = ({ blogData, showUsers, showModal, setShowModal,modalData 
             <p className="text"> {post.text} </p>
           </div>
         ))}
+
       </div>
       <Modal
         setShowModal={setShowModal}
