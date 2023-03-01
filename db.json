@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "16776658556829",
+      "user": "Bilal",
+      "title": "React Mvc Pattern",
+      "text": "Bunu nasıl öğrenirim ??"
+    },
+    {
+      "id": "16776658940548",
+      "user": "Furkan",
+      "title": "Neden Acaba?",
+      "text": "burası postasda"
+    },
+    {
+      "id": "16776660001877",
+      "user": "Kullanıcı",
+      "title": "İsmi",
+      "text": "Nasıl olamalı?"
+    },
+    {
+      "id": "16776658556826",
+      "user": "Bilal",
+      "title": "React Mvc Pattern",
+      "text": "Bunu nasıl öğrenirim ??"
+    },
+    {
+      "id": "16776658940545",
+      "user": "Furkan",
+      "title": "Neden Acaba?",
+      "text": "burası postasda"
+    },
+    {
+      "id": "16776660001874",
+      "user": "Kullanıcı",
+      "title": "İsmi",
+      "text": "Nasıl olamalı?"
+    },
+    {
+      "id": "16776658556823",
+      "user": "Bilal",
+      "title": "React Mvc Pattern",
+      "text": "Bunu nasıl öğrenirim ??"
+    },
+    {
+      "id": "16776658940542",
+      "user": "Furkan",
+      "title": "Neden Acaba?",
+      "text": "burası postasda"
+    },
+    {
+      "id": "16776660001871",
+      "user": "Kullanıcı",
+      "title": "İsmi",
+      "text": "Nasıl olamalı?"
+    },
+    {
+      "id": "1677682889464",
+      "user": "Furkan",
+      "title": "Modal çalışıyor mu?",
+      "text": "does?"
+    }
+  ]
+}
